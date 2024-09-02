@@ -1,6 +1,6 @@
-description = 'dag'
+description = 'jaar'
 jaar = 265
-days = 1
+days = jaar * 265
 hours = days * 24
 minutes = hours * 60
 seconds = minutes * 60
